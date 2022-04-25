@@ -1,0 +1,117 @@
+{
+  "PDQ": {
+    "heading": "Make Life Simpler With A Digital Push",
+    "desc": "A better tomorrow with 360-degree digital marketing services to reshape your business."
+  },
+  "Why": [
+    { "heading": "Why Invest In Digital Marketing?" },
+    {
+      "total": [
+        {
+          "title": "Maximum ROI",
+          "content": "Get maximum bang for your buck with relatively lesser investments than conventional marketing."
+        },
+        {
+          "title": "Targeted Marketing",
+          "content": "The digital medium filters your audience down to narrowest demographic and psychographic profiles."
+        },
+        {
+          "title": "Quantify Brand's Success",
+          "content": "Digital technologies accurately track and quantify the success of brand campaign with keyword analytics."
+        },
+        {
+          "title": "Boost In Revenue",
+          "content": "Digital advancements specifically boost revenue which is the primary goal of business growth."
+        },
+        {
+          "title": "Measurable Results & Performance",
+          "content": "With innovative tools and marketing metrics, digital strategies are monitored with real-time analysis."
+        },
+        {
+          "title": "Customer Engagement",
+          "content": "Digital marketing helps in engaging with clients to get insights of the audience's interests."
+        }
+      ]
+    },
+    {
+      "firstRow": [
+        {
+          "title": "Maximum ROI",
+          "content": "Get maximum bang for your buck with relatively lesser investments than conventional marketing."
+        },
+        {
+          "title": "Targeted Marketing",
+          "content": "The digital medium filters your audience down to narrowest demographic and psychographic profiles."
+        },
+        {
+          "title": "Quantify Brand's Success",
+          "content": "Digital technologies accurately track and quantify the success of brand campaign with keyword analytics."
+        }
+      ]
+    },
+    {
+      "secondRow": [
+        {
+          "title": "Boost In Revenue",
+          "content": "Digital advancements specifically boost revenue which is the primary goal of business growth."
+        },
+        {
+          "title": "Measurable Results & Performance",
+          "content": "With innovative tools and marketing metrics, digital strategies are monitored with real-time analysis."
+        },
+        {
+          "title": "Customer Engagement",
+          "content": "Digital marketing helps in engaging with clients to get insights of the audience's interests."
+        }
+      ]
+    }
+  ],
+  "SEO": {
+    "heading": "SEO Optimization",
+    "para1": "IllusTech the best SEO services in India that help brands gain online visibility and maximizes ROI for your business growth. If you are missing out on the opportunities of having effective SEO strategies to increase your revenues, you can rely on us anytime for a customized solution as per business needs. Our custom SEO campaign targets on-page and off-page SEO including keyword research helping audience navigate you easily online.",
+    "para2": "We are a top internet marketing company which focuses on delivering consistent SEO results."
+  },
+  "GoogleAdwords": {
+    "heading": "Google Adwords",
+    "para1": "At IllusTech, we manage your Google Ads account, targeting the relevant keywords driving buyers to your website. Our experts will develop effective paid search campaigns meeting your business goals with powerful tracking tools. Our goal is to create sustainable, creative and fruitful digital campaigns.",
+    "para2": "Our various Services include:",
+    "points": [
+      "Keyword research and usage",
+      "Competitive Analysis",
+      "Video and image Ads creation",
+      "Optimizing the landing pages",
+      "PPC cost management",
+      "PPC Monitoring",
+      "Ad campaign modification and improvements",
+      "Monthly performance report",
+      "Conversion Tracking"
+    ]
+  },
+  "LeadGen": {
+    "heading": "Lead Generation",
+    "para1": "At IllusTech, our professionals take comprehensive efforts and strategies helping in better decision making to attract more leads.",
+    "para2": "There are potential prospects who are likely to enquire from you. With proper digital marketing methods such as paid ads, social media, and content marketing, our experts will draw their interest and bring them directly to your business.",
+    "para3": "Wondering how our lead generation services work?",
+    "points": [
+      "Audit & setting objectives",
+      "Identify key decision makers",
+      "Campaign implementation",
+      "Results monitoring",
+      "Reporting of campaign",
+      "Strategy review from feedbacks"
+    ]
+  },
+  "LinkedInMarketing": {
+    "heading": "LinkedIn Marketing",
+    "para1": "We offer LinkedIn Paid Advertising and the power of 500+ million active business users for your organization. Our team of LinkedIn Advertising specialists will be happy to assist you setup your account and manage your LinkedIn advertising campaigns especially for the B2B market.",
+    "para2": " At IllusTech, we use advanced targeting methods and the powerful tools provided by LinkedIn to impact your lead generation efforts.",
+    "para3": "Our linkedin marketing services include :",
+    "points": [
+      "Linkedin Ads audits",
+      "Linkedin Ads Strategies",
+      "Linkedin Ad Management",
+      "Linkedin Retargeting",
+      "Linkedin Ads audience"
+    ]
+  }
+}

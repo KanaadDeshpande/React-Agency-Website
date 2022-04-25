@@ -1,0 +1,113 @@
+{
+  "PDQ": {
+    "heading": "Art Of Design For Your Business Image",
+    "desc": "A multitude of creative designs and visuals for your brand identity."
+  },
+  "Why": [
+    { "heading": "Why invest in Graphic Designing?" },
+    {
+      "total": [
+        {
+          "title": "Kills Competition",
+          "content": "Build exceptional designs to be highly creative in the marketplace to kill extensive competition."
+        },
+        {
+          "title": "First impressions matter",
+          "content": "Create an everlasting impression for your brand with the accurate message and a purpose."
+        },
+        {
+          "title": "Right message",
+          "content": "Our designs communicate more than just words with elegant elements to maintain consistency."
+        },
+        {
+          "title": "Ease up navigation",
+          "content": "Our customized graphic design services enhance the navigation and increase usability of app or site."
+        },
+        {
+          "title": "Professional brand image",
+          "content": "Well planned graphic strategy creates a professional image in the marketplace enhancing brand recognition."
+        },
+        {
+          "title": "Effective Communication",
+          "content": "IllusTech helps you with constant communication and positive impressions through elegant graphic designs."
+        }
+      ]
+    },
+    {
+      "firstRow": [
+        {
+          "title": "Kills Competition",
+          "content": "Build exceptional designs to be highly creative in the marketplace to kill extensive competition."
+        },
+        {
+          "title": "First Impressions Matter",
+          "content": "Create an everlasting impression for your brand with the accurate message and a purpose."
+        },
+        {
+          "title": "Right Message",
+          "content": "Our designs communicate more than just words with elegant elements to maintain consistency."
+        }
+      ]
+    },
+    {
+      "secondRow": [
+        {
+          "title": "Ease Up Navigation",
+          "content": "Our customized graphic design services enhance the navigation and increase usability of app or site."
+        },
+        {
+          "title": "Professional Brand Image",
+          "content": "Well planned graphic strategy creates a professional image in the marketplace enhancing brand recognition."
+        },
+        {
+          "title": "Effective Communication",
+          "content": "IllusTech helps you with constant communication and positive impressions through elegant graphic designs."
+        }
+      ]
+    }
+  ],
+  "LogoDesign": {
+    "heading": "Logo Design",
+    "para1": "Hit the spot with our logo designing services. IllusTech offers creative logo designs at reasonable prices and delivers in a matter of hours designed as your business needs.",
+    "para2": "An ideal logo acts as a strong foundation and point of identification instantly connecting with people at a first go. Our designers are friendly and dedicated to making a comprehensive logo as per the taste and brand style offering a variety of file types for your logo, including JPEG, PNG, vector, Photoshop, PDF, and EPS."
+  },
+  "OfficeKits": {
+    "heading": "Office Kit",
+    "para1": "Discover a grand collection of modern office kits helping you maintain a consistent branding for years. With us, you can expand your brand across media that communicates professionalism with our variety of corporate designs including:",
+    "para2": "Your approach to professional office kits can also affect the mood and productivity of the staff. These kits will contain your company logo, slogan, contact details, images, and other elements keeping employees happier.",
+    "points": [
+      "Exclusive stationery designs",
+      "Company letterheads ",
+      "Well organised invoices",
+      "Branded business cards",
+      "Modern envelopes",
+      "Creative folders"
+    ]
+  },
+  "PromoVideos": {
+    "heading": "Promotional Videos",
+    "para1": "IllusTech offers business promotional videos that get you noticed from its creativity & relevance. With the detailed insights and emotions, IllusTech works hard to connect brands with people and wipe out every communication barrier between the two.",
+    "para2": "The major goals for creating promotional videos for brands are to educate the audience with motion creatives including:",
+    "points": [
+      "Twitter or Linkedin video",
+      "Facebook or Instagram video",
+      "Promos or Teasers",
+      "Youtube video",
+      "Animated & 3D video"
+    ],
+    "para3": "Unleash the power of video to interact with your potential customers."
+  },
+  "SMM": {
+    "heading": "Social Media Management",
+    "para1": "IllusTech believes that success comes from a timely blend of quality content and appealing visuals. Hence, we offer social media creatives that are well designed with the brand message and announcements to be shown to the brand community.",
+    "para2": "Our posts drive measurable metrics for the brand on social media-engagement, reach, likes, etc and include:",
+    "para3": "As experts, we research the trending hashtags and keywords, topics, content, responding to the comments or ratings, and scheduling posts.",
+    "points": [
+      "Infographics",
+      "Insta/FB Stories",
+      "Youtube videos",
+      "Product images",
+      "Memes"
+    ]
+  }
+}

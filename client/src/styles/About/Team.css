@@ -1,0 +1,18 @@
+/* ***** The Team Behind Illustech ******/
+.team-heading {
+  padding-top: 50px;
+  color: #050910;
+  padding-bottom: 50px;
+}
+
+.team-carousel .rec .rec-arrow {
+  margin: 0px 10px;
+}
+
+.team-background {
+  background: linear-gradient(to bottom, #fff 65%, #0f1b2e 55%);
+}
+
+.img-height {
+  height: 285px;
+}

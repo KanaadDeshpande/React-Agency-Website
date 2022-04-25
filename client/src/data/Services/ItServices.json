@@ -1,0 +1,98 @@
+{
+  "PDQ": {
+    "heading": "You Choose, We’ll Pave The Way",
+    "desc": "Most reliable, robust and scalable network in the sector simplifying complex management."
+  },
+  "Why": [
+    { "heading": "How IT Services Can Benefit You? " },
+    {
+      "total": [
+        {
+          "title": "Secured Information",
+          "content": "IT Services keep confidential information about your clients secured with proper investigation."
+        },
+        {
+          "title": "Effective Data Management",
+          "content": "Ensure that all files are backed up during expected occurrence causes data loss."
+        },
+        {
+          "title": "Customer Support",
+          "content": "Customers are assisted with more choices for how they can reach business conveniently."
+        },
+        {
+          "title": "No complexities",
+          "content": "Generation of more viable solutions to complex business dilemmas ensuring everything streamlined."
+        },
+        {
+          "title": "Marketing Optimization",
+          "content": "Optimizing strategies to find target audiences to whom you can market for better results."
+        },
+        {
+          "title": "Comprehensive Monitoring",
+          "content": "Monitoring of performance and progress of a business’ internal operations at every stage."
+        }
+      ]
+    },
+    {
+      "firstRow": [
+        {
+          "title": "Secured Information",
+          "content": "IT Services keep confidential information about your clients secured with proper investigation."
+        },
+        {
+          "title": "Effective Data Management",
+          "content": "Ensure that all files are backed up during expected occurrence causes data loss."
+        },
+        {
+          "title": "Customer Support",
+          "content": "Customers are assisted with more choices for how they can reach business conveniently."
+        }
+      ]
+    },
+    {
+      "secondRow": [
+        {
+          "title": "No complexities",
+          "content": "Generation of more viable solutions to complex business dilemmas ensuring everything streamlined."
+        },
+        {
+          "title": "Marketing Optimization",
+          "content": "Optimizing strategies to find target audiences to whom you can market for better results."
+        },
+        {
+          "title": "Comprehensive Monitoring",
+          "content": "Monitoring of performance and progress of a business’ internal operations at every stage."
+        }
+      ]
+    }
+  ],
+  "WebDev": {
+    "heading": "Website Development",
+    "para1": "Our web development process includes understanding clients' vision, conceptualization of web ideas, designing and developing efficiently, testing on devices and final launching.",
+    "para2": "IllusTech, being an eminent web development company, is committed toproviding innovative solutions to both large scale or small scalebusinesses, ranging from brand research to conceptualization,crafting UX/UI design, and overall marketing plan.",
+    "para3": "Choose us for an SEO-friendly and professional website where we strive to deliver full-fledged web development services for achieving impactful changes in your brand."
+  },
+  "AppDev": {
+    "heading": "Application Development",
+    "para1": "With IllusTech, unleash the potential of your business with our Mobile app development services where we develop exclusive mobile apps with user-friendly and flowy interface . Around 5 billion people have subscribed to mobile business services, apps are the need today. We develop wireframes for the design, define the architecture, prepare usability reports, then perform actual device testing considering other platforms such as mobile and tablet for uniformity.",
+    "para2": "For flexible and scalable development platforms that can be updated in future, start with us today!"
+  },
+  "SoftwareDev": {
+    "heading": "Software Development",
+    "para1": "IllusTech drives business transformation by bringing together the technical progress with our innovative software development services. We work with startups and enterprises to help them unleash the power of emerging technologies where we design and develop technology products that can streamline business growth. Since every business is different, we build custom software applications that are tailored to meet your specific needs, budget and timeline.",
+    "para2": "We convert client’s demands into a custom software solution by focusing on building secure, scalable and custom-centric software products."
+  },
+  "SMM": {
+    "heading": "Social Media Management",
+    "para": "Our maintenance services include:",
+    "points": [
+      "Scale rapidly without added internal resources and optimize maintenance with support desk..",
+      "Ensure powerful automation and optimization of applications conveniently.",
+      "Reduce operation cost through increased leverage of remote ITsupport services.",
+      "Enhance the business value through powerful analytic tools.",
+      "Address important issues for specific bug cases and fix them accordingly for 100% flawless functioning.",
+      "Helps identify performance, security, version updates and keeps the application flawless.",
+      "We fix broken links, outdated content, security concerns, etc to manage the site professionally."
+    ]
+  }
+}

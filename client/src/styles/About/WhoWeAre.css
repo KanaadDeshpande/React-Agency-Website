@@ -1,0 +1,116 @@
+/****** WhoWeAre ******/
+
+.wwa-main-container {
+  padding-top: 150px;
+  padding-bottom: 75px;
+}
+
+.wwa-description {
+  padding-right: 40px !important;
+  margin-top: 75px;
+}
+
+.wwa-button {
+  justify-content: flex-end;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.wwa-button-font-color {
+  border-radius: 0px !important;
+}
+
+.wwa-heading-responsive {
+  display: none;
+}
+
+@media (max-width: 1275px) {
+  .wwa-heading {
+    padding-top: 150px;
+  }
+}
+
+@media (max-width: 1254px) {
+  .wwa-main-container {
+    padding-top: 250px;
+    padding-bottom: 75px;
+  }
+
+  .wwa-img {
+    min-width: 40vw;
+  }
+  .wwa-img img {
+    width: 100%;
+    height: auto;
+  }
+  .wwa-description {
+    padding-right: 8px !important;
+  }
+
+  .wwa-heading {
+    padding-top: 0px;
+  }
+}
+
+@media only screen and (max-width: 786px) {
+  .wwa-main-container {
+    padding-top: 150px;
+  }
+
+  #root > div.App > div > div.wwa-main-container.bgcw > div > div {
+    flex-direction: column;
+  }
+
+  #root
+    > div.App
+    > div
+    > div.wwa-main-container.bgcw
+    > div
+    > div
+    > div.wwa-img.dfa.jcca
+    > img {
+    width: 47.5%;
+  }
+
+  .wwa-img {
+    min-width: 35%;
+  }
+
+  .wwa-heading {
+    display: none;
+  }
+
+  .wwa-heading-responsive {
+    display: block;
+    text-align: center;
+  }
+
+  .wwa-button {
+    justify-content: center;
+  }
+
+  .wwa-p {
+    padding: 0px 20px !important;
+  }
+
+  #root > div.App > div > div.fa-main-container.bgcdb > div > div {
+    flex-direction: column;
+  }
+
+  #root > div.App > div > div.fa-main-container.bgcdb > div > div > div.fa-img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  #root
+    > div.App
+    > div
+    > div.fa-main-container.bgcdb
+    > div
+    > div
+    > div.fa-img
+    > img {
+    width: 50%;
+  }
+}

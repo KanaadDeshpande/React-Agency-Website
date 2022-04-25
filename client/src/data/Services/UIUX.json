@@ -1,0 +1,88 @@
+{
+  "PDQ": {
+    "heading": "We Make The User Experience Seamless!",
+    "desc": "Experience real time results with our UX/UI services designed for an engaging product."
+  },
+  "Why": [
+    {
+      "heading": "UI/UX Services You Can Avail:"
+    },
+    {
+      "total": [
+        {
+          "title": "Responsive Design",
+          "content": "IllusTech ensures a great user experience by offering responsive, accessible and mobile friendly designs."
+        },
+        {
+          "title": "High Page Speed",
+          "content": "We offer end to end solution to reduce the load time of your website."
+        },
+        {
+          "title": "Catchy Call To Action",
+          "content": "We ensure multiple and catchy CTAs with a strong approach to encourage user decision."
+        },
+        {
+          "title": "Appealing Imagery",
+          "content": "IllusTech provides appealing & attractive graphics to keep the audience engaged with the business."
+        },
+        {
+          "title": "Technical Site Error Solutions",
+          "content": "We make error free websites ensuring a good impression on the end users."
+        },
+        {
+          "title": "Extensive TEstings & Analytics",
+          "content": "We work with all UIs and collect user feedback data for timely improvements."
+        }
+      ]
+    },
+    {
+      "firstRow": [
+        {
+          "title": "Responsive Design",
+          "content": "IllusTech ensures a great user experience by offering responsive, accessible and mobile friendly designs."
+        },
+        {
+          "title": "High Page Speed",
+          "content": "We offer end to end solution to reduce the load time of your website."
+        },
+        {
+          "title": "Catchy Call to Action",
+          "content": "We ensure multiple and catchy CTAs with a strong approach to encourage user decision."
+        }
+      ]
+    },
+    {
+      "secondRow": [
+        {
+          "title": "Appealing Imagery",
+          "content": "IllusTech provides appealing & attractive graphics to keep the audience engaged with the business."
+        },
+        {
+          "title": "Technical Site Error Solutions",
+          "content": "We make error free websites ensuring a good impression on the end users."
+        },
+        {
+          "title": "Extensive Testings & Analytics",
+          "content": "We work with all UIs and collect user feedback data for timely improvements."
+        }
+      ]
+    }
+  ],
+  "WebDesign": {
+    "heading": "Web Design",
+    "para1": "We provide professional, unique and custom built websites as per the business needs to bridge the gap between you and the customer. Whether you need a personalized landing page or website, we ensure all your needs for modern and exceptional web designs. With years of experience in web design ux ui services, we bring:",
+    "para2": "However, if your existing site is not functional, we will be at your service.",
+    "points": [
+      "Pixel perfect web design",
+      "Modification",
+      "Desktop & mobile responsive design",
+      "E-commerce",
+      "Custom built templates"
+    ]
+  },
+  "AppDesign": {
+    "heading": "Application Design",
+    "para1": "IllusTech offers custom mobile app UI/UX design services to all businesses .Our UIs are smooth and user friendly making it simple for the end user to interact with your mobile app. We develop exceptional UI designs for Android, IOS, Smartphones, Tablet, and Windows UI.",
+    "para2": "Our designers cover different aspects such as UI design, user experience and revamp of existing & old mobile apps. They use the best UI tools like Illustrator & Photoshop to best reflect your app idea."
+  }
+}

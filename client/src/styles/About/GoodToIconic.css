@@ -1,0 +1,82 @@
+/****** Good to Iconic ******/
+
+.gti-main-container {
+  padding-top: 100px;
+  padding-bottom: 105px;
+}
+
+.gti-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.gti-box {
+  display: flex;
+}
+
+.gti-description {
+  padding-right: 40px !important;
+  margin-left: 75px;
+}
+
+.gti-button {
+  justify-content: flex-end;
+  border-radius: 0px !important;
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+}
+
+.gti-heading-responsive {
+  display: none;
+}
+
+.gti-img {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 1254px) {
+  .gti-box {
+    flex-direction: column;
+  }
+  .gti-img {
+    width: 100%;
+  }
+  .gti-img img {
+    width: 50%;
+  }
+  .gti-description {
+    margin: 15px !important;
+    padding-right: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 786px) {
+  .gti-box {
+    display: block;
+    width: 100%;
+  }
+
+  .gti-heading {
+    display: none;
+  }
+
+  .gti-heading-responsive {
+    display: block;
+    font-size: 28px;
+    color: #fff !important;
+  }
+
+  .gti-button {
+    justify-content: center;
+  }
+
+  .gti-p {
+    padding-right: 20px !important;
+  }
+}

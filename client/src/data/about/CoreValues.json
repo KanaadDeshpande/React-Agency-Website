@@ -1,0 +1,28 @@
+{
+    "heading": "Our Core Values",
+    "ourCoreValues": [{
+        "title": "Create Positivity",
+        "content": "Illus-Technicians stand with pride. When the going gets tough, and the tough gets going, we find a way to overcome it with determination and positivity by saying - YES. WE CAN! We work in an environment where fun is equally important in the daily routine and spread smiles all over with great energy throughout."
+    },
+    { 
+        "title": "Team Spirit",
+        "content": "Team spirit meaning friendship, generosity and fairness in collective benefits of the work and willingness to support other members even during the most challenging times ever. With teamwork, the company members get a sense of accomplishment in search of better and greater efficiency."
+    },
+    {
+        "title": "Business Integrity",
+        "content": "We refuse to opt for any kind of underhanded method to boost the business gains or advantages. Illustechicians understand that a lack of integrity in business dealings will be penalized and hamper the growth of everyone involved. In the end, we believe that goodwill is the highest reward."
+    },
+    { 
+        "title": "Transparency",
+        "content": "Illustech is an honest workplace where people allow themselves to be, and all the information is shared with customers in the most transparent way possible. We believe transparency adds value to the business by making things accessible to everyone in several ways and increasing loyalty."
+    },
+    {
+        "title":"Corporate Social Responsibility",
+        "content": "Whether we operate and whatever economic situations are responsible citizens, we support the communities and respect our work environment. Illustech builds the future by living the CSR values and delivers excellent outcomes most sustainably."
+    },
+    { 
+        "title": "Knowledge & Innovation",
+        "content": "Our thought leadership and ongoing learning in web marketing help us influence everyone involved positively and effectively. We believe in investing in our team’s knowledge and development proactively and innovational upgrades for consistent results."
+    }],
+    "button": "GET IN TOUCH WITH US"
+}

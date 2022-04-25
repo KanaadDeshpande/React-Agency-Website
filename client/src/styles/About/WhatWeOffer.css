@@ -1,0 +1,85 @@
+/****** What We Offer ******/
+.wwo-main-container {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.wwo-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.wwo-box {
+  display: flex;
+}
+
+.wwo-description {
+  padding-right: 40px !important;
+  margin-top: 85px;
+}
+
+.wwo-button {
+  justify-content: flex-end;
+  border-radius: 0px !important;
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+}
+
+.wwo-heading-responsive {
+  display: none;
+}
+
+.wwo-img {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 1254px) {
+  .wwo-box {
+    flex-direction: column;
+  }
+  .wwo-img {
+    width: 100%;
+  }
+  .wwo-img img {
+    width: 60%;
+  }
+  .wwo-description {
+    padding-right: 8px !important;
+  }
+}
+
+@media only screen and (max-width: 786px) {
+  .wwo-box {
+    display: block;
+    width: 100%;
+  }
+
+  .wwo-heading {
+    display: none;
+  }
+
+  .wwo-heading-responsive {
+    display: block;
+  }
+
+  .wwo-button {
+    justify-content: center;
+  }
+
+  .wwo-p {
+    padding: 0px 20px !important;
+  }
+}
+
+.wwa-button-font-color {
+  padding: 10px 20px !important;
+}
+
+.wwa-button-font-color strong {
+  color: #fff;
+}

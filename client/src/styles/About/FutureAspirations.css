@@ -1,0 +1,55 @@
+/****** Future Aspirations ******/
+
+.fa-main-container {
+  padding-top: 125px;
+  padding-bottom: 100px;
+}
+
+.fa-heading {
+  font-size: 48px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.fa-sub-heading {
+  font-size: 30px !important;
+  justify-content: left !important;
+}
+
+.fa-description {
+  padding-bottom: 0px;
+  padding-right: 40px !important;
+}
+
+.fa-button {
+  justify-content: flex-end;
+  margin-top: 20px;
+  width: 100%;
+}
+
+@media (max-width: 1254px) {
+  .fa-main-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .fa-img {
+    width: 100%;
+  }
+  .fa-img img {
+    width: 60%;
+  }
+  .fa-description {
+    padding-right: 8px !important;
+  }
+}
+
+@media only screen and (max-width: 786px) {
+  .fa-button {
+    justify-content: center;
+  }
+
+  .fa-p {
+    padding: 0px 20px !important;
+  }
+}

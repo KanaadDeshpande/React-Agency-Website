@@ -1,0 +1,33 @@
+{
+    "tileData" : [
+        {
+          "img": "../images/MahindraLifespaces.jpeg",
+          "alt": "Mahindra Lifespaces"
+        },
+        {
+          "img": "../images/GodrejProperties.jpeg",
+          "alt": "Godrej Properties"
+        },{
+          "img": "../images/CredaiNagpur.jpeg",
+          "alt": "Credai Nagpur"
+        },{
+          "img": "../images/GreenGreet.jpeg",
+          "alt": "Green Greet"
+        },{
+          "img": "../images/OneSpot.jpeg",
+          "alt": "One Spot"
+        },{
+          "img": "../images/Prozone.jpeg",
+          "alt": "Prozone"
+        },{
+          "img": "../images/JK.jpeg",
+          "alt": "JK Builders"
+        },{
+          "img": "../images/OnlyUniq.jpeg",
+          "alt": "OnlyUniq"
+        },{
+          "img": "../images/Syahi.jpeg",
+          "alt": "Syahi"
+        }
+      ]
+}

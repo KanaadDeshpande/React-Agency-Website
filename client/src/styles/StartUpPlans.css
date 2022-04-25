@@ -1,0 +1,84 @@
+.plans-main-container {
+  background-color: #0f1b2e;
+  min-height: 85vh;
+}
+
+.plans-heading {
+  padding-top: 50px;
+}
+
+.plans-p {
+  padding-top: 15px;
+  padding-bottom: 50px;
+}
+
+.pricing-plans-card {
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+
+.pricing-included-excluded {
+  width: 3%;
+  height: auto;
+}
+
+.plans-dark-button {
+  display: flex;
+  color: #fff;
+  border: 1px solid #0f1b2e;
+  text-transform: uppercase;
+  background-color: #0f1b2e;
+  padding: 10px;
+  justify-content: center;
+  width: 40%;
+  min-width: 200px !important;
+  font-size: 14px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+
+.plans-dark-button:hover {
+  color: #fff;
+  background-color: #0f1b2e;
+}
+
+.MuiBadge-badge {
+  font-weight: 900 !important;
+}
+
+.pricing-2 div {
+  display: flex;
+  align-items: center;
+}
+
+.pricing-2 img {
+  margin-right: 12px;
+}
+
+.pricing-2 span {
+  font-size: 10px;
+}
+
+.cardActions {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.cardActions button {
+  width: auto;
+}
+
+@media (max-width: 1230px) {
+  .pricing-plans-card {
+    flex-direction: column;
+  }
+  .badge {
+    min-width: 39.68%;
+    margin: 20px auto !important;
+  }
+  .badge .MuiCard-root {
+    width: 100%;
+  }
+}

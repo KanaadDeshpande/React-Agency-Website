@@ -1,0 +1,24 @@
+{
+    "data": [
+        { 
+            "firstQuestion": "What are Cookies ?",
+            "firstAnswerPartOne": "Cookies are little data bundles that are placed on your computer program when you visit the website. Cookies are generally utilized by website owners to make their sites work more proficiently, as well as provide reporting data. ",
+            "firstAnswerPartTwo": "This is often considered an infringement of privacy but if needed by relevant law; your consent will be taken before we place any cookies on your computer system. ",
+            "firstAnswerPartThreeTitle": "First-party cookies-",
+            "firstAnswerPartThree": "These are the cookies placed directly on your system by the owners of the website that you are visiting.",            
+            "firstAnswerPartFourTitle": "Third-party cookies-",
+            "firstAnswerPartFour": "These are the cookies placed on your system by a party other than the owners of the website that you are visiting. Third-party cookies are mostly utilized for advertising, analytic and interactive purposes.", 
+            "secondQuestion": "Purpose of Cookies :",
+            "secondAnswer": "Cookies serve many purposes, for example, allowing you to explore between pages proficiently, recalling your preferences, and improving the client experience. They also assist with the relevant online promotions.",
+            "thirdQuestion": "What type of Cookies Illustech uses ? ",
+            "thirdAnswerPointOne": "Strictly necessary cookies- These treats are fundamental for you to browse the website and utilize its features, for example, getting to secured areas of the website.",
+            "thirdAnswerPointTwo": "Preferences cookies- These treats permit a website to memorize choices you have made previously for future references.",
+            "thirdAnswerPointThree": "Statistics cookies- These treats gather data about how you utilize a site, similar to which pages you visited and which joins you clicked on. Their sole intention is to improve site capacities.",
+            "thirdAnswerPointFour": "Marketing cookies- These treats track your online activities to assist publicists with conveying important publicizing or to restrict how frequently you see an advertisement.",
+            "fourthQuestion": "What if you don’t want cookies ?",
+            "fourthAnswerPartOne": "You can adjust, remove, or block cookies at any time through the settings but it may have an impact on your user experience.",
+            "fourthAnswerPartTwo": "If any question arises at any point, do ",
+            "fourthAnswerPartTwoLink": "Contact us."
+        }
+    ]   
+}

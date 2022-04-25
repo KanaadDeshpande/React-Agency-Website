@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "title": "what the Privacy Policy incorporates?",
+      "description": "We acknowledge the significance of privacy for our users and we respect your choices and matters of privacy. This privacy policy outlines what information we collect from you, how we use, share, store, and secure your collected information. If you disagree with this policy, don't access or utilize our Services or impart with any of the aspects of our business."
+    },
+    {
+      "title": "What information we collect about you ?",
+      "description": "We gather data about you which is put into the services or in any case, as described below, provided to us by you.",
+      "points": [
+        "Account and profile information: When you register for an account, set up or edit your profile or make any purchases through our services, we assemble the information about you. The preferences selected in the settings within the services are also tracked.",
+        "Content provided through our products/websites: The information is incorporated which you decide to be incorporated. We gather the information that you submit to websites, including social media or sites handled by us.",
+        "Account and profile information: When you register for an account, set up or edit your profile or make any purchases through our services, we assemble the information about you. The preferences selected in the settings within the services are also tracked.",
+        "Content provided through our products/websites: The information is incorporated which you decide to be incorporated. We gather the information that you submit to websites, including social media or sites handled by us.",
+        "Payment Information: While certain paid services are availed, the payment and billing information provided by you is collected. The information related to the name and contact details of the billing representative, payment card details etc. are recorded through secure payment operation services."
+      ]
+    },
+    {
+      "title": "Information collected automatically while using the Services",
+      "points": [
+        "Device and Connection Information; We gather information about your computer, phone, tablet, or different gadgets along with your IP address to get to the Services."
+      ]
+    },
+    {
+      "title": "How the collected information is used ?",
+      "description": "Following are the purposes for which the information collected about you is used:",
+      "points": [
+        "To provide the Services and personalize your experience: The collected information is used to enhance your experience by providing customer support, effective collaboration with others, relevant search results, pertinent notifications and feeds",
+        "For research and development: We are continuously in search of approaches to make our services quicker, secure, coordinated, and helpful and the information provided by you helps to achieve such qualities.",
+        "To communicate with you about the Services: The collected data is used to send correspondences through email, including confirmation of purchases, sending you specialized notifications, reminders, security questions, and so on.",
+        "To market, promote and drive engagement with the Services: Promotional communications according to your specific interest are sent using your collected information aiming at driving the engagement, maximizing the benefits out of services for you, providing information about new features, surveys, newsletters which may be of your interest.",
+        "Customer support: We utilize your Data to address your request for assistance to respond to the issues you may be facing and aim at fixing such issues by improving the services.",
+        "For safety and security: The collected information is used to verify the account and activities to prevent the behavior of vindictive, deceitful, criminal, and infringement of service arrangements.",
+        "To protect our legitimate business interests and legal rights: Wherever necessary to ensure lawful rights and interests, your data is used in connection with legal claims, regulatory, and audit functions.",
+        "With your consent: We use the information about you where there is your consent to do so for a particular reason not recorded previously."
+      ]
+    },
+    {
+      "title": "How the information we collect is stored and secured ?",
+      "points": [
+        "How long we keep information: After a certain period, we will either erase or block your information. If that is not possible then we will safely confine your data securely.",
+        "Marketing information: If you have chosen to get advertising emails from us, we utilize your data to promote for a sensible timeframe from the date when you last communicated your interest in our services."
+      ]
+    },
+    {
+      "title": "How the collected information is used ?",
+      "points": [
+        "Your Choices: The Right to request the copy, object to use, or request to delete your data, rests with you. However, the right is limited in nature.",
+        "Access and update your information: Our Services and related documentation enable you to access and refresh certain data about you within the Service.",
+        "Deactivate your account: If you don't wish to utilize our Services, you have the option to deactivate your Services account but it doesn’t erase your previous data.",
+        "Delete your information: Our Services enable you to erase certain data about you from within the Service.",
+        "Request that we stop using your information: At times, you may request to quit getting or utilizing your data by reaching us where you accept we don't have the proper rights to do so.",
+        "Send \"Do Not Track\" Signals: As of now, Our Services don't accept DNT signals. You can utilize other options we give to control information collection and usage."
+      ]
+    },
+    {
+      "title": "Other important privacy information",
+      "points": [
+        "Notice to End Users: The Services made accessible to you through an organization are the administrator of the services. "
+      ]
+    },
+    {
+      "title": "Administrators can:",
+      "points": [
+        "Expect you to reset your account password",
+        "Confine, suspend or end your admittance to the Services",
+        "Access data in and about your account",
+        "Access or retain data stored in your record",
+        "Introduce or uninstall outsider applications or different combinations."
+      ]
+    },
+    {
+      "title": "In certain situations, administrators may also:",
+      "points": [
+        "Replace the email address linked with your account",
+        "Switch your information",
+        "Moderate your capacity to edit, limit, modify or remove the information"
+        ]
+    }
+  ]
+}

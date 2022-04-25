@@ -1,0 +1,20 @@
+.portfolio-outer-div {
+  height: 100vh;
+}
+
+.portfolio-title {
+  color: #fff;
+  font-weight: 700;
+}
+
+.portfolio-image {
+  height: 500px;
+  width: 500px;
+}
+
+@media screen and (max-width: 768px) {
+  .portfolio-image {
+    height: 250px;
+    width: 250px;
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "services": [
+    {
+      "tabHeading": "IT Services",
+      "description": "We provide IT Modernization, Software, Web and App Development services, Maintenance of services and AI driven solutions for global brands to ensure the best technological interaction and secured web solutions that navigate with ease.",
+      "points": [
+        {
+          "subheading": "Website Development",
+          "content": "Offers responsive, personalized & secure websites."
+        },
+        {
+          "subheading": "Application Development",
+          "content": "Provides custom IOS & Android app development."
+        },
+        {
+          "subheading": "Software Development",
+          "content": "Top-rated and reliable software solutions."
+        }
+      ],
+      "link": "/IT-services"
+    },
+    {
+      "tabHeading": "Graphic Designing",
+      "description": "Looking to make a mark on the digital web ecosystem? Get in touch for stunning graphics including Creative logo designs, Web designs, Print designs, Merchandise, Art & Illustrations and Social media post designs.",
+      "points": [
+        {
+          "subheading": "Logo Design",
+          "content": "#1 Choice for your ideal logo."
+        },
+        {
+          "subheading": "Office Kits",
+          "content": "Win brand recall with personal office kits."
+        },
+        {
+          "subheading": "Promotional Videos",
+          "content": "Captivate viewers with conceptually designed videos."
+        }
+      ],
+      "link": "/graphic-designing"
+    },
+    {
+      "tabHeading": "Digital Marketing",
+      "description": "We offer domains like goal-driven PPC services, Social Media Marketing, SEO Services, Content Creation, Local Business Listings. Let our experts cover your digital disciplines & increase your brand recall.",
+      "points": [
+        {
+          "subheading": "SEO Optimization",
+          "content": "Rank your website on first page to maximize the ROI."
+        },
+        {
+          "subheading": "Google Adwords",
+          "content": "Expertized result-oriented PPC services."
+        },
+        {
+          "subheading": "Lead generation",
+          "content": "Reach potential customers for quality leads."
+        }
+      ],
+      "link": "/digital-marketing"
+    },
+    {
+      "tabHeading": "UI/UX Designing",
+      "description": "Looking to make a mark on the digital web ecosystem? Get in touch for stunning graphics including Creative logo designs, Web designs, Print designs, Merchandise, Art & Illustrations and Social media post designs.",
+      "points": [
+        {
+          "subheading": "Website Design",
+          "content": "Make your website unique & engaging than ever."
+        },
+        {
+          "subheading": "Application Design",
+          "content": "Design interactive Apps for your mobile, web & desktop."
+        }
+      ],
+      "link": "/UI-UX"
+    }
+  ]
+}

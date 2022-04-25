@@ -1,0 +1,27 @@
+.container {
+  text-align: left;
+}
+
+.pp_title {
+  font-size: 24px;
+  text-transform: capitalize;
+  margin-bottom: 12px;
+}
+
+.pp_list_item {
+  margin-bottom: 10px;
+}
+
+@media all and (max-width: 522px) {
+  .pp_title {
+    font-size: 20px;
+  }
+
+  .pp_description {
+    font-size: 14px;
+  }
+
+  .pp_list_item {
+    font-size: 14px;
+  }
+}
