@@ -1,4 +1,4 @@
-# Client Side Website
+# Client-Side:
 
 - Developed using React.js, React-Bootstrap and Material-UI
 
@@ -9,7 +9,7 @@ $ yarn install
 $ yarn start
 ```
 
-# Contact-Form-API
+# Server-Side:
 
 A complete contact Form for the agency website.
 
